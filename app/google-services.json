@@ -1,38 +1,27 @@
 {
   "project_info": {
-    "project_number": "1074674074297",
-    "firebase_url": "https://snapchatclone-50d89.firebaseio.com",
-    "project_id": "snapchatclone-50d89",
-    "storage_bucket": "snapchatclone-50d89.appspot.com"
+    "project_number": "124995189622",
+    "firebase_url": "https://adrift-snap.firebaseio.com",
+    "project_id": "adrift-snap",
+    "storage_bucket": "adrift-snap.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1074674074297:android:7c01174477c69a05",
+        "mobilesdk_app_id": "1:124995189622:android:6b2451cec768fa12",
         "android_client_info": {
-          "package_name": "com.example.gorda.snapchatclone"
+          "package_name": "com.adrift.adrift_snap"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1074674074297-hul0vg3bi61sv179d28kbeqackphsatm.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.gorda.snapchatclone",
-            "certificate_hash": "862d6a8458c1ca9abafa3629678fb1c98d8f6dcb"
-          }
-        },
-        {
-          "client_id": "1074674074297-enbbv43q82d0msuevhfbcp61hmfs9tf8.apps.googleusercontent.com",
+          "client_id": "124995189622-1ftvomagkta6c68e4q3bre7si2rjb86a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCDOYyuCwP_f8Ox7RD4TUObiJw6Oh03zZU"
-        },
-        {
-          "current_key": "AIzaSyCDOYyuCwP_f8Ox7RD4TUObiJw6Oh03zZU"
+          "current_key": "AIzaSyB8xkdLOL_2jrqkGvWoM7RWfcdECecBP3E"
         }
       ],
       "services": {
@@ -40,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1074674074297-enbbv43q82d0msuevhfbcp61hmfs9tf8.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
